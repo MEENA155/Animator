@@ -22,5 +22,13 @@
 ## Program:
 
 ## Output:
+### Idle position:
+![174709883-41879c23-065d-428d-8ec5-25730f52ec52](https://github.com/MEENA155/Animator/assets/94677128/3aaa9650-4d6e-4142-95c9-3a4780456dac)
+
+### Crouch position:
+![174709909-41bc4524-7a1c-4200-b23c-11501966dca2](https://github.com/MEENA155/Animator/assets/94677128/2eace586-d5cd-4060-80e1-048e905f7afc)
+
+### Walking:
+![174709959-e3562451-ec9e-4bb2-b606-bc71ab344283](https://github.com/MEENA155/Animator/assets/94677128/35f0fb1d-89bf-4ea9-8cb6-2904cc9b2bab)
 
 ## Result:
