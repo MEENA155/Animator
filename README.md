@@ -36,8 +36,8 @@ In blend tree, in blend type choose (2D Freedom Directional), parameter (InputX,
 
 ## Program:
 ```
-Developed by: VISHRANTHI A
-Register by: 212221230124
+Developed by: MEENA S
+Register by: 212221240028
 ```
 ```
 using System.Collections;
